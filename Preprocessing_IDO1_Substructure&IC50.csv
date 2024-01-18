@@ -10,10 +10,10 @@ STT,CID,SMILES,IC50 (uM),Substructure,,Tên ,S? l??ng,Dihydropyridine,Furan,"Imid
 9,5318,C1=CC(=CC=C1CSC(CN2C=CN=C2)C3=C(C=C(C=C3)Cl)Cl)Cl,6.4,Imidazole,,Isoquinoline,1,,,,x,,,,,,,,,,,,,,,,,,
 10,7104,C1=CC=C2C=C(C(=CC2=C1)C(=O)O)O,1000,Other,,"Naphtho(2,3-d)imidazole-4,9-dione",0,,,,,,,,,,,,,,,,,,,,,,x
 11,7220,C1=CC2=NNN=C2C=C1,2570,Triazole,,"Naphtho(2,3-d)thiazole-4,9-dione",3,,,,,,,,,,,,,,,x,,,,,,,
-12,7222,C1=CC=C2C(=C1)N=CS2,652,Other,,Naphthoquinone,31,,,,,,,,,,,,,,,,,,,,,,x
-13,7516,C1=CC=C(C=C1)NN,0.593333333,Other,,Quinoline,139,,,,,,,,,,,,,,,,,,,,,,x
-14,7518,C1=CC=C(C=C1)NO,9.2,Other,,Quinone,2,,,,,,,,,,,,,,,,,,,,,,x
-15,7812,C1=CC(=CC=C1N)Cl,1553,Other,,Quinoxaline,1,,,,,,,,,,,,,,,,,,,,,,x
+12,7222,C1=CC=C2C(=C1)N=CS2,652,Other,,Naphthoquinone,31,,min IC50,,,,,,,,,,,,,,,,,,,,x
+13,7516,C1=CC=C(C=C1)NN,0.593333333,Other,,Quinoline,139,,0.0005,,,,,,,,,,,,,,,,,,,,x
+14,7518,C1=CC=C(C=C1)NO,9.2,Other,,Quinone,2,,max IC50,,,,,,,,,,,,,,,,,,,,x
+15,7812,C1=CC(=CC=C1N)Cl,1553,Other,,Quinoxaline,1,,3200,,,,,,,,,,,,,,,,,,,,x
 16,7815,C1=CC(=CC=C1S)Cl,5.625,Other,,Thiohydantoin,0,,,,,,,,,,,,,,,,,,,,,,x
 17,8447,C1=CC=C2C(=C1)N=C(S2)SSC3=NC4=CC=CC=C4S3,500,Other,,Thiophene,80,,,,,,,,,,,,,,,,,,,,,,x
 18,8530,C1=CC=C2C(=O)C=CC(=O)C2=C1,0.8575,Naphthoquinone,,Triazole,78,,,,,,,,,x,,,,,,,,,,,,,
